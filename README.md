@@ -156,3 +156,5 @@ Accuracy score for test data is: 0.7653631284916201
 
 The accuracy have been  **reduced**, changing from  **0.79 to 0.75**. Hence, 0.25 is also  **not a good threshold**  for our model.  
 Later on we will see methods to identify the best threshold.
+
+ - To check out my notebook, please click [here](https://github.com/Kanchan-Bhamare/Logistic-Regression-on-titanic-dataset/blob/main/LogisticRegressionTitanicDataset-1541341628249.ipynb)
